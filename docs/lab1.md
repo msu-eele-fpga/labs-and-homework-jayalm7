@@ -1,0 +1,1 @@
+![lab 1 sc](assets/lab1.png)
